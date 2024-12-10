@@ -2,5 +2,8 @@ async-lru
 pyaes
 Tgcrypto
 pyrogram==1.4.15
+aiohttp
 PySocks
 python-dotenv
+flask
+gunicorn
